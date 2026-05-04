@@ -2,4 +2,4 @@
 Aprendiendo React con este conversor , Hooks , Components , Proops , etc.
 
 
-Preview del proyecto :  https://loanconverter-andrewgalvan.netlify.app/
+Enlace: https://conversor-prestamos-react.vercel.app/
